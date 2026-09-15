@@ -5,7 +5,7 @@
 Java와 Spring Boot로 치료·상담 서비스 **Dr.CBT**의 백엔드를 개발하고 운영합니다.
 예약부터 결제·환불·정산까지 복잡한 업무 규칙을 구현하고, 실행 로그로 성능 개선을 검증합니다.
 
-[Portfolio](https://wongi-kim.github.io) · [Blog](https://velog.io/@wongi-kim/posts)
+[Portfolio](https://wongi-kim.github.io) · [Blog](https://velog.io/@wongi-kim/posts) · [상세 포트폴리오 (Notion)](https://ten-tornado-b09.notion.site/18067a27ac7e4f4790dde645fb3bf3d3)
 
 ## Experience
 
@@ -59,5 +59,6 @@ Java와 Spring Boot로 치료·상담 서비스 **Dr.CBT**의 백엔드를 개�
 ## More
 
 - [포트폴리오](https://wongi-kim.github.io) — 경력과 주요 프로젝트의 문제 해결 과정
+- [상세 포트폴리오 (Notion)](https://ten-tornado-b09.notion.site/18067a27ac7e4f4790dde645fb3bf3d3) — 프로젝트별 구현 내용과 자세한 문제 해결 과정
 - [기술 블로그](https://velog.io/@wongi-kim/posts) — 개발 과정에서 배운 내용과 기록
 - [Dr.CBT](https://yd-icbt.co.kr) — 개발·운영 중인 치료·상담 서비스
